@@ -1,0 +1,7 @@
+slice2java Multiples.ice
+
+javac *.java Multiples/*.java
+
+start java Server
+start java Client
+start java Client
